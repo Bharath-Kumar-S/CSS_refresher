@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 2rem;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+ul li{
+    display: inline-block;
+    padding: 2rem;
+}
+
+nav{
+    text-align: right;
+    background-color: black;
+}
