@@ -1,0 +1,48 @@
+p{
+    line-height: 1.8rem;
+}
+
+.float{
+    width: 20vw;
+    height: 20vw;
+    background-color: black;
+    color: bisque;
+    padding: 2rem;
+    break-inside: avoid;
+    margin-top: 1.5rem;
+}
+
+.left{
+    float: left;
+    margin-right: 1rem;
+}
+
+.right{
+    float: right;
+    margin-left: 1rem;
+}
+
+.float-box{
+    background-color: bisque;
+    display: flow-root;
+}
+
+h2{
+    text-align: center;
+    white-space: nowrap;
+}
+
+.head{
+    margin-top: 1rem;
+    font-size: 2rem;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.head span{
+    white-space: nowrap; 
+}
+
+section{
+    padding: 0 0.5rem 0 0.5rem;
+}
